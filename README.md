@@ -1,2 +1,2 @@
-# angular-email-editor
+# EmailEditor
 Created with CodeSandbox
